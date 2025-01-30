@@ -1,25 +1,36 @@
-🍔 Food Order Website
-🚀 Project Description
-Le Food Order Website est un projet académique conçu pour faciliter la commande de repas en ligne. Il permet aux utilisateurs de parcourir le menu, commander des plats et gérer leur profil, tandis que l'administrateur peut gérer les utilisateurs, les catégories de plats, les repas et les commandes. Ce projet est développé en PHP avec MySQL pour la gestion des données et utilise CSS et JavaScript pour une interface utilisateur fluide et interactive.
+# 🍔 Food Order Website  
 
-🎯 Main Features
-🧑‍💻 Utilisateur
-Créer et gérer son profil.
-Parcourir les catégories et les plats disponibles.
-Passer une commande en ligne.
-Consulter l'historique de ses commandes.
-🛠️ Administrateur
-Gérer les utilisateurs (ajout, modification, suppression).
-Gérer les catégories de plats.
-Ajouter, modifier et supprimer des plats.
-Suivre et gérer les commandes des utilisateurs.
-🔧 Technologies Used
-Frontend
-🎨 CSS – Pour un design attrayant et responsive.
-💻 JavaScript – Pour des fonctionnalités interactives.
-Backend
-⚙️ PHP – Pour la gestion des requêtes et de la logique métier.
-Database
-🗄️ MySQL – Pour stocker les utilisateurs, les plats et les commandes.
-📋 Methodology
-Ce projet suit une approche modulaire, facilitant la gestion et l'évolution du système. L'administration et la gestion des commandes sont optimisées pour une expérience fluide et efficace.
+## 🚀 Project Description  
+The **Food Order Website** is an academic project designed to provide an intuitive platform for ordering food online. Users can browse the menu, place orders, and manage their profiles, while administrators oversee user management, food categories, menu items, and orders. The system is built using **PHP** for the backend, **MySQL** for data management, and **CSS & JavaScript** for an interactive user interface.  
+
+## 🎯 Main Features  
+
+### 🧑‍💻 **User**  
+- Create and manage a personal profile.  
+- Browse food categories and menu items.  
+- Place food orders online.  
+- View order history and track orders.  
+
+### 🛠️ **Administrator**  
+- Manage users (add, edit, delete).  
+- Manage food categories.  
+- Add, update, and remove food items.  
+- Monitor and manage user orders.  
+
+## 🔧 Technologies Used  
+
+### Frontend  
+- 🎨 **CSS** – For a clean and responsive design.  
+- 💻 **JavaScript** – For interactive features.  
+
+### Backend  
+- ⚙️ **PHP** – Handles business logic and user requests.  
+
+### Database  
+- 🗄️ **MySQL** – Stores users, food items, and orders.  
+
+### Architecture  
+- **Monolithic** architecture.  
+
+## 📋 Methodology  
+This project follows a **modular approach**, ensuring easy scalability and maintenance. The system is designed to provide a seamless user experience for both customers and administrators.  

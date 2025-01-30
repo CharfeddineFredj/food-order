@@ -34,3 +34,14 @@ The **Food Order Website** is an academic project designed to provide an intuiti
 
 ## 📋 Methodology  
 This project follows a **modular approach**, ensuring easy scalability and maintenance. The system is designed to provide a seamless user experience for both customers and administrators.  
+
+## 🖼️ **Screenshots**  
+
+### 🏠 Home Page  
+![Home Page](screenshots/home_page.png)  
+
+### 🍽️ Order Page  
+![Order Page](screenshots/order_page.png)  
+
+### 📊 Admin Dashboard  
+![Admin Dashboard](screenshots/admin_dashboard.png) 

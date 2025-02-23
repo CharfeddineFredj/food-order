@@ -38,10 +38,10 @@ This project follows a **modular approach**, ensuring easy scalability and maint
 ## 🖼️ **Screenshots**  
 
 ### 🏠 Home Page  
-![Uploading user-home.png…]()
+![user-order](https://github.com/user-attachments/assets/4c565798-d8ee-4e95-8d06-6e38e5463f8e)
 
 ### 🍽️ Order Page  
-![Uploading user-order.png…]()
+![Uploading user-home.png…]()
 
 ### 📂 Manage Category Page 
 ![screencapture-localhost-food-order-admin-manage-category-php-2025-01-30-19_41_02](https://github.com/user-attachments/assets/aff23f96-12ed-4b7a-9d72-38ccfc0a336f)
